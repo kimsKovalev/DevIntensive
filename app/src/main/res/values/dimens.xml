@@ -22,5 +22,9 @@
 
     <!--Fonts-->
     <dimen name="font_small_14">14sp</dimen>
+    <dimen name="font_size_20">20sp</dimen>
     <dimen name="font_big_25">25sp</dimen>
+
+    <!--Images-->
+    <dimen name="profile_image_size_256">256dp</dimen>
 </resources>
